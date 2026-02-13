@@ -5,7 +5,19 @@ const Story = () => {
     // EDIT THE LETTER CONTENT HERE
     const title = "Para jj,";
     const message = `
-    .
+    Lo quiero muchooooooo. Se que hay dias buenos y malos, pero
+    enserio trataré que los dias buenos sean muuuuucho mas que los malos.
+
+    Gracias por todo lo que hace por mi, enserio lo valoro muchisimo, 
+    no crea que no. Este año si tratar de ser mejor pa estar bien con usted :)
+
+    Uste es una gran persona, vet, futuro pescador, cazador, sobreviviente ranger...
+    Sepa que siempre lo vua apoyar en lo que haga yayudarle en lo que necesite. 
+    Por si quiere un sitio web ve ya se lo hice (despues le cobro 😏) menitiriii. 
+    Lo qet mucho.
+
+    Con amor, cariño, afecto, aprecio, etcccc.,
+    Andrea ♥
   `;
 
     // Animation variants for typewriter effect
