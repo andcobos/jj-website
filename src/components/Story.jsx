@@ -11,9 +11,9 @@ const Story = () => {
     Gracias por todo lo que hace por mi, enserio lo valoro muchisimo, 
     no crea que no. Este año si tratar de ser mejor pa estar bien con usted :)
 
-    Uste es una gran persona, vet, futuro pescador, cazador, sobreviviente ranger...
+    Uste es una gran persona, vet, futuro pescador, youtuber, drummer, sobreviviente ranger...
     Sepa que siempre lo vua apoyar en lo que haga yayudarle en lo que necesite. 
-    Por si quiere un sitio web ve ya se lo hice (despues le cobro 😏) menitiriii. 
+    Por si quiere un sitio web ve ya se lo hice. 
     Lo qet mucho.
 
     Con amor, cariño, afecto, aprecio, etcccc.,
